@@ -1,2 +1,2 @@
-# heart_diseases-_predictor
+# heart_diseases_predictor
 AI Heart Diseases  Predictor
